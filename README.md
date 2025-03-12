@@ -41,4 +41,4 @@ pip install -r .\requirements.txt
 Run app and choose one number between 1 and 9 from app console menu
 
 ## Project Status
-Project is complete. I currently have no plans to further develop the game, as I have achieved the intended learning outcomes
+Project is complete.
